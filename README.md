@@ -27,5 +27,5 @@ bin/bin
 
 ### Curva de Reflow
 
-<img src="./images/Curva-de-Reflow.jpg.jpg" width="700">
+<img src="./images/Curva-de-Reflow.jpg" width="700">
 
