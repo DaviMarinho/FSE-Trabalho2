@@ -1,6 +1,11 @@
 # FSE-Trabalho2
 Trabalho 2 da disciplina de FSE 2022/2
 
+Este trabalho tem por objetivo a implementação de um sistema (que simula) o controle de um forno para soldagem de placas de circuito impresso (PCBs). No trabalho, o software desenvolvido terá que efetuar o controle de temperatura do forno utilizando dois atuadores para este controle: um resistor de potência de 15 Watts utilizado para aumentar temperatura e uma ventoinha que puxa o ar externo (temperatura ambiente) para reduzir a temperatura do sistema.
+
+Nome: Davi Marinho da Silva Campos 
+Matrícula: 19/0026600
+
 ## Iniciar
 Na pasta raiz utilize o comando:
 ```
